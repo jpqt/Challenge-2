@@ -12,9 +12,9 @@ The project leverages python 3.7 with the following packages:
 
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
 
-* [pathlib] (https://github.com/nemec/pathlib) - Path manipulation library for .Net
+* [pathlib](https://github.com/nemec/pathlib) - Path manipulation library for .Net
 
-* [csv] (https://github.com/thephpleague/csv) - Csv is a library to ease parsing, writing and filtering CSV in PHP.
+* [csv](https://github.com/thephpleague/csv) - Csv is a library to ease parsing, writing and filtering CSV in PHP.
 ---
 
 ## Installation Guide
