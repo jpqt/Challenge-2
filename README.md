@@ -53,8 +53,11 @@ Terminal shows our loan applicants qualification requirements.
 
 
 Joshua Pak, taehanpak9@gmail.com
+
 Kenny Kim, kennykim@gmail.com
+
 Daniel Byun, taesung.byun@gmail.com
+
 DU-BootCamp Tutors
 
 ## License
