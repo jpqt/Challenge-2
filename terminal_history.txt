@@ -1,0 +1,50 @@
+  478  python app.py
+  479  python app.py
+  480  python app.py
+  481  python app.py
+  482  740
+  483  python app.py
+  484  python app.py
+  485  python app.py
+  486  python app.py
+  487  python app.py
+  488  python app.py
+  489  ls
+  490  python app.py
+  491  ls
+  492  cd ..
+  493  ls
+  494  git add loan_qualifier_app/
+  495  git status
+  496  git commit -m 'new files'
+  497  git push
+  498  history 50 > terminal_history.txt
+  499  history 50 > terminal_history.txt
+  500  ls
+  501  cd Desktop/
+  502  ls Challenge-2/
+  503  ls
+  504  cd Challenge-2/
+  505  cd loan_qualifier_app/
+  506  ls
+  507  python app.py
+  508  ls
+  509  cd ..
+  510  ls
+  511  git add loan_qualifier_app/
+  512  git status
+  513  git commit -m 'read me modification'
+  514  git push
+  515  git add README.md 
+  516  git status
+  517  git commit -m 'readme'
+  518  git push
+  519  git status
+  520  git commit -m 'readme'
+  521  git push
+  522  git status
+  523  git add README.md 
+  524  git status
+  525  git commit -m 'readme final?'
+  526  git push
+  527  history 50 > terminal_history.txt
