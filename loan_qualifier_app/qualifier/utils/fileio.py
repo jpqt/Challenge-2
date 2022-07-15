@@ -28,3 +28,13 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+    
+def save_csv(output_path, header, data):
+   
+
+    # @TODO: Use the csv library and `csv.writer` to write the header row
+    # and each row of `loan.values()` from the `inexpensive_loans` list.
+    with open (output_path, 'w', newline='') as csvfile: 
+        csvwriter = csv.writer(csvfile, delimiter=",")
+        # csvwriter.writerow(header)
+        csvwriter.writerows(data)
