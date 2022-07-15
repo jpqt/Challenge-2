@@ -18,6 +18,12 @@ The project leverages python 3.7 with the following packages:
 
 ## Installation Guide
 
+Clone GitHub Respoitories to yoour local machine
+
+```sh
+   git clone https://github.com/jpqt/Challenge-2.git
+ ```
+
 Before running the application first install the following dependencies.
 
 ```python
@@ -30,16 +36,24 @@ Before running the application first install the following dependencies.
 ## Usage
 
 
+This project is a loan application that prompts the applicants to enter financial and private data to determine if an applicant qualifies for a loan and the type of loan the applicant qualifies for. It also asks the applicants to save the qualifying loans as a new CSV file.
+
+Saving our function as save_csv.
+![save csv](save_csv.png)
+
+
 
 ---
 
 ## Contributors
+
 Joshua Pak, taehanpak9@gmail.com
 Kenny Kim, kennykim@gmail.com
 Daniel Byun, taesung.byun@gmail.com
-Albion 
+DU-BootCamp Tutors
 ---
 
 ## License
 
 Denver University 2022.
+MIT
