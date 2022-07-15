@@ -1,7 +1,7 @@
 ## Loan Qualifier Application
 
 A command-line interface application for selecting loans which qualify an applicant based on income and credit score.
----
+
 
 ## Technologies
 
