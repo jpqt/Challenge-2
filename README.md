@@ -1,5 +1,6 @@
 ## Loan Qualifier Application
 
+
 A command-line interface application for selecting loans which qualify an applicant based on income and credit score.
 
 
@@ -41,11 +42,15 @@ This project is a loan application that prompts the applicants to enter financia
 Saving our function as save_csv.
 ![save csv](save_csv.png)
 
+Terminal shows our loan applicants qualification requirements.
+![termina](terminal.png)
+
 
 
 ---
 
 ## Contributors
+
 
 Joshua Pak, taehanpak9@gmail.com
 Kenny Kim, kennykim@gmail.com
